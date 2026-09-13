@@ -1,0 +1,6 @@
+{
+  "name": "HxAI",
+  "description": "AI & Robotics Media vault powered by Java and Python concepts with secure password authentication, media management for pictures, PDFs, and links, and comprehensive system documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
